@@ -20,7 +20,7 @@ author: Dina El-Doumani
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "This page analayzes various movements of ballet dancers from the infamous russian academy of ballet."
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
