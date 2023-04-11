@@ -3,7 +3,6 @@ layout: post
 title: Why Choose Us
 subtitle: Click Here and Figure Out for Yourself!
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
