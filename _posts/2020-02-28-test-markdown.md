@@ -3,7 +3,7 @@ layout: post
 title: Why Choose Us
 gh-repo: daattali/beautiful-jekyll
 cover-img: /docs2/assets/leg.jpg
-thumbnail-img: /docs2/assets/hand.png
+thumbnail-img: /docs2/assets/dee.png
 share-img: /docs2/assets/leg.jpg
 comments: true
 ---
