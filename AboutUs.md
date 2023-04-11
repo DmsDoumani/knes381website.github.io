@@ -10,6 +10,7 @@ To empower individuals suffering from Sciatica to reclaim their independence and
 
 ### The Method 
 We aim to revolutionize the way people recover from Sciatica by individualizng treatment plans, promoting long-term health and wellness for our clients and their families.
+
 Overview of how we provide you with your own unique plan!
 
 ### Assessment and Evaluation 
