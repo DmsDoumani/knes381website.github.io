@@ -25,11 +25,15 @@ Patient eductaion involves a one-on-one session with our provideors sitting down
 This session may include a discussion about self-care techniques, lifestyle modifications, medication management, home modifications, and prevention strategies.
 
 #### 3) Incorperation of Various Treatment Tecniques 
-hhhhh
+Our rehabilitation providers understand that each patient's condition is unique, and a one-size-fits-all approach is not effective. Therefore, they utilize the incorporation of various treatment techniques to create a customized treatment plan that addresses the specific needs of each patient.
 
-hhhhhh
+These techniques can include:
+-Physical Therapy
+-Mannual Therapy
+-Registered Massage Therapy
+-Functional Taping
+-Medical Acupuncture 
 
 #### 4) Curating a Treatment Plan
-nnnnn
+After going through the previous steps, our providers curate a personalized treatment plan by setting goals, selecting appropriate treatment techniques, developing a comprehensive treatment plan, implementing the plan, and monitoring and adjusting the plan as needed.
 
-mmmm
