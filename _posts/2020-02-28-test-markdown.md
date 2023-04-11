@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Why Choose Us
-subtitle: Click Here and Figure Out for Yourself!
 gh-repo: daattali/beautiful-jekyll
 cover-img: /docs2/assets/choose.jpg
-thumbnail-img: /docs2/assets/treat.png
+thumbnail-img: /docs2/assets/hand.png
 share-img: /docs2/assets/choose.jpg
 comments: true
 ---
