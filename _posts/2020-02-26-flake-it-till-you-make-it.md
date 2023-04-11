@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Clientele Reviews 
-subtitle: Click Here To Read Our Clients' Reviews!
+title: Our Treatment Approach and Theory 
 cover-img: /docs2/assets/background.jpg
 thumbnail-img: /docs2/assets/Reviews.png
 share-img: /docs2/assets/background.jpg
