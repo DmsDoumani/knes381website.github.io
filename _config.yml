@@ -224,7 +224,6 @@ footer-hover-col: "#0085A1"
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
 paginate: 5
 
 kramdown:
