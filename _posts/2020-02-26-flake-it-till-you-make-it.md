@@ -2,7 +2,7 @@
 layout: post
 title: Our Treatment Approach and Theory 
 cover-img: /docs2/assets/background.jpg
-thumbnail-img: /docs2/assets/Reviews.png
+thumbnail-img: /docs2/assets/treat.png
 share-img: /docs2/assets/background.jpg
 
 ---
