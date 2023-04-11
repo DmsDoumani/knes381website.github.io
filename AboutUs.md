@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Us
+cover-img: /docs2/assets/2ndback.jpg
 subtitle: We strive to be the leading provider of in-home Sciatica rehabilitation, delivering exceptional care that is accessible, convenient, and results-driven.
 ---
 ### Our Vision 
