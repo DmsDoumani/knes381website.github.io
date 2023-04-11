@@ -7,14 +7,14 @@ subtitle: We strive to be the leading provider of in-home Sciatica rehabilitatio
 
 To empower individuals suffering from Sciatica to reclaim their independence and quality of life by providing personalized, evidence-based rehabilitation services in the comfort of their own homes.
 
-Sciatica Be Gone Inc. :
-
-- Mastery of Technique 
-- Artistery 
-- Discipline 
-- Safe Form Utilization 
-
 
 ### The Method 
+We aim to revolutionize the way people recover from Sciatica by individualizng treatment plans, promoting long-term health and wellness for our clients and their families.
+Overview of how we provide you with your own unique plan!
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Assessment and Evaluation 
+-
+### Assessment and Evaluation 
+-
+### Assessment and Evaluation 
+-
