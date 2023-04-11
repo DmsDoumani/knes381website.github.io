@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Why Choose Us
 subtitle: Click Here and Figure Out for Yourself!
 gh-repo: daattali/beautiful-jekyll
