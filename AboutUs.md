@@ -21,9 +21,9 @@ We use a combination of medical history, physical examination, imaging tests, el
 ### 2) Patient Education 
 Patient eductaion involves a one-on-one session with our provideors sitting down with you to discuss and inform you with knowledge and skills necessary to actively participate in your own recovery, prevent future injuries or pain, and help you achieve long-term success.
 
-This session may include self-care techniques, lifestyle modifications, medication management, home modifications, and prevention strategies.
+This session may include a discussion about self-care techniques, lifestyle modifications, medication management, home modifications, and prevention strategies.
 
-### 3) Incorperation of Treatment Tecniques 
+### 3) Incorperation of Various Treatment Tecniques 
 hhhhh
 
 hhhhhh
