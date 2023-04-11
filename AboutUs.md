@@ -28,10 +28,15 @@ This session may include a discussion about self-care techniques, lifestyle modi
 Our rehabilitation providers understand that each patient's condition is unique, and a one-size-fits-all approach is not effective. Therefore, they utilize the incorporation of various treatment techniques to create a customized treatment plan that addresses the specific needs of each patient.
 
 These techniques can include:
+
 -Physical Therapy
+
 -Mannual Therapy
+
 -Registered Massage Therapy
+
 -Functional Taping
+
 -Medical Acupuncture 
 
 #### 4) Curating a Treatment Plan
