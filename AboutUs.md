@@ -12,7 +12,7 @@ To empower individuals suffering from Sciatica to reclaim their independence and
 ## The Method 
 We aim to revolutionize the way people recover from Sciatica by individualizng treatment plans, promoting long-term health and wellness for our clients and their families.
 
-Overview of how we provide you with your own unique plan!
+## Here is an overview of how we provide you with your own unique plan!
 
 #### 1) Assessment and Evaluation 
 Assessment and evaluation are critical steps in the treatment of Sciatica, involving a comprehensive evaluation of the patient's symptoms, medical history, physical condition, and other factors that may be contributing to your condition. 
