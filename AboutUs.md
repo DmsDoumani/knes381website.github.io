@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Russian Classical Ballet Academy
+title: To empower individuals suffering from Sciatica to reclaim their independence and quality of life by providing personalized, evidence-based rehabilitation services in the comfort of their own homes
 subtitle: Vision 
 ---
 
