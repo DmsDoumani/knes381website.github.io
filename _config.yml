@@ -21,11 +21,10 @@ author: Dina El-Doumani
 
 navbar-links:
   About Us: "AboutUs"
-  Services: "Services"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-
+  Our Services: "Services"
+  Contact US: "ContactUs"
+  Learn More About Sciatica: "Learnmore"
+    
 ################
 # --- Logo --- #
 ################
