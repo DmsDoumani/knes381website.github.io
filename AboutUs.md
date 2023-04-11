@@ -3,6 +3,9 @@ layout: page
 title: About Us
 subtitle: We strive to be the leading provider of in-home Sciatica rehabilitation, delivering exceptional care that is accessible, convenient, and results-driven.
 ---
+### Our Vision 
+
+To empower individuals suffering from Sciatica to reclaim their independence and quality of life by providing personalized, evidence-based rehabilitation services in the comfort of their own homes.
 
 Sciatica Be Gone Inc. :
 
