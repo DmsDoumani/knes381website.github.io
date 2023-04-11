@@ -13,9 +13,14 @@ We aim to revolutionize the way people recover from Sciatica by individualizng t
 
 Overview of how we provide you with your own unique plan!
 
-### Assessment and Evaluation 
+### 1) Assessment and Evaluation 
+-Assessment and evaluation are critical steps in the treatment of Sciatica, involving a comprehensive evaluation of the patient's symptoms, medical history, physical condition, and other factors that may be contributing to your condition. 
+
+We use a combination of medical history, physical examination, imaging tests, electromyography, pain assessment, and functional assessment to assess the severity and underlying cause of the your Sciatica symptoms.
+
+### 2) Patient Education 
 -
-### Assessment and Evaluation 
+### 3) Incorperation of Treatment Tecniques 
 -
-### Assessment and Evaluation 
--
+
+### 4) Curating a Treatment Plan
