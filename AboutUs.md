@@ -27,7 +27,7 @@ This session may include a discussion about self-care techniques, lifestyle modi
 #### 3) Incorperation of Various Treatment Tecniques 
 Our rehabilitation providers understand that each patient's condition is unique, and a one-size-fits-all approach is not effective. Therefore, they utilize the incorporation of various treatment techniques to create a customized treatment plan that addresses the specific needs of each patient.
 
-#### These techniques include:
+#### These techniques can include:
 
 -Physical Therapy
 
