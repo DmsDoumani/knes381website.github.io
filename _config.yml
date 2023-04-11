@@ -21,7 +21,7 @@ author: Dina El-Doumani
 
 navbar-links:
   About Us: "AboutUs"
-  Services: 
+  Services: "Services"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
