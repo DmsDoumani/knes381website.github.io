@@ -3,6 +3,7 @@ layout: page
 cover-img: /docs2/assets/2ndback.jpg
 
 ---
+
 ## What is sciatica and what causes it?
 Sciatica is a condition characterized by pain that radiates along the path of the sciatic nerve, which is the largest nerve in the body. It is caused by compression or irritation of the sciatic nerve, typically due to a herniated disk or spinal stenosis. Symptoms include pain, weakness, and difficulty standing or walking. Treatment may include pain management, physical therapy, and surgery.
 
