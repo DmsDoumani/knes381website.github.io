@@ -4,15 +4,14 @@ title: Contact Us
 cover-img: /docs2/assets/2ndback.jpg
 
 ---
-## Our Vision 
+## Calgary-Based Clients
 
-To empower individuals suffering from Sciatica to reclaim their independence and quality of life by providing personalized, evidence-based rehabilitation services in the comfort of their own homes.
+Email: sciaticaBG-YYC@gmail.com
 
+Phone: (613) 555 0170
 
-## The Method 
-We aim to revolutionize the way people recover from Sciatica by individualizng treatment plans, promoting long-term health and wellness for our clients and their families.
+## Cochrane-Based Clients
 
-## Here is an overview of how we provide you with your own unique rehabilitation plan!
+Email: sciaticaBG-CR@gmail.com
 
-#### 1) Assessment and Evaluation 
-Assessment and evaluation are critical steps in the treatment of Sciatica, involving a comprehensive evaluation of the patient's symptoms, medical history, physical condition, and other factors that may be contributing to your condition. 
+Phone: (613) 555 0164
