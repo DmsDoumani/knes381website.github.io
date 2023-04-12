@@ -1,6 +1,8 @@
+---
+layout: page
+cover-img: /docs2/assets/2ndback.jpg
 
-
-
+---
 | Therapy Type | Duration (Mins) | Cost |
 | :------ |:--- | :--- |
 | Evalution Session | 30 | Free |
