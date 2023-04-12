@@ -19,5 +19,7 @@ Phone: (613) 555 0164
 ### Hours Of Operation
 
 Monday-Friday: 8am-8pm
+
 Saturday: 10am-5pm
+
 Sunday: Closed
