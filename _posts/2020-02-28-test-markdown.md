@@ -24,4 +24,5 @@ Our rehabilitation facility is conveniently located, at your own house, making i
 
 
 
-## By choosing our in-house rehabilitation program, you can expect personalized and effective treatment from experienced professionals who will help you on your journey to recovery.
+
+#### -By choosing our in-house rehabilitation program, you can expect personalized and effective treatment from experienced professionals who will help you on your journey to recovery-
