@@ -5,7 +5,9 @@ cover-img: /docs2/assets/2ndback.jpg
 
 ---
 ### Our clients's Story 
-vdsssssssssssssssssss
+For a long time since their diagnosis, our clients only relied on analgesics and medicinal pain management approach to their sciatica. However, as you see below, such methods only marginally decrease pain levels, and with some clients, it took them a couple of months to even feel a slight decrease in their pain level!
+
+After slight improvement, those clients came to us to try alternative and additional ways to help manage their sciatica. After assessing and evaluating the clients' condition, our providers devised an individualized and all-encompassing treatment plan. All we can say is look at how big of an improvement in pain level they have achieved, and in such a short amount of time!! 
 
 ### Sciatica Pain Management Through Medicine and Analgesics Only
 ![MedOnly](https://github.com/DmsDoumani/knes381website.github.io/blob/master/docs2/assets/Medicine%20Only.png){: .mx-auto.d-block :}
