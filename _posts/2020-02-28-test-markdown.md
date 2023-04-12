@@ -14,7 +14,7 @@ comments: true
 Our program is tailored to your specific needs, with a personalized treatment plan that focuses on your individual goals and concerns.
 
 #### 2) Multidisciplinary & Experienced Professionals
-Our team of experienced professionals has extensive knowledge in treating sciatica and will guide you through every step of the process. Moreover, our rehabiltioation team consists of speacialsts with variable rehab backgrounds such as physical therapy, occupational therapists , massage therapists , nutritonsists, virtual counsellors, and much more to help you improve holisitcally. 
+Our team of experienced professionals has extensive knowledge in treating sciatica and will guide you through every step of the process. Moreover, our rehabiltioation team consists of speacialsts with variable rehab backgrounds such as physical therapists, occupational therapists , massage therapists , nutritonsists, virtual counsellors, and much more to help you improve holisitcally. 
 
 #### 3) Holisitc Approach To Treatment 
 Our rehabilitation program takes a holistic approach, addressing not just the physical symptoms of sciatica but also the mental and emotional aspects of recovery.
