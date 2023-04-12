@@ -39,6 +39,8 @@ Our rehabilitation providers understand that each patient's condition is unique,
 
 -Medical Acupuncture 
 
+-Counselling 
+
 #### 4) Curating a Treatment Plan
 After going through the previous steps, our providers curate a personalized treatment plan by setting goals, selecting appropriate treatment techniques, developing a comprehensive treatment plan, implementing the plan, and monitoring and adjusting the plan as needed.
 
