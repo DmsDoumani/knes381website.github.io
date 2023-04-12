@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Frequently Asked Questions
 cover-img: /docs2/assets/2ndback.jpg
 
 ---
