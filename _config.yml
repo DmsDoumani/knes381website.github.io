@@ -21,7 +21,7 @@ author: Dina El-Doumani
 
 navbar-links:
   About Us: "AboutUs"
-  Our Services: "Services"
+  Our Services: "Services" "FAQ"
   Quantitative Data: "QData"
   Contact US: "ContactUs"
     
