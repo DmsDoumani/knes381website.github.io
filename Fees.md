@@ -1,4 +1,4 @@
-# Service Fees
+
 
 
 | Therapy Type | Duration (Mins) | Cost |
