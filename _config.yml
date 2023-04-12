@@ -21,9 +21,12 @@ author: Dina El-Doumani
 
 navbar-links:
   About Us: "AboutUs"
-  Our Services: "Services" "FAQ"
+  Our Services: 
+  -  Therapy Type: "Services" 
+  -  FAQ: "FAQ"
+  -  Contact Us: "ContactUs" 
   Quantitative Data: "QData"
-  Contact US: "ContactUs"
+ 
     
 ################
 # --- Logo --- #
