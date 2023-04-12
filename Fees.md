@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Service Fees
 cover-img: /docs2/assets/2ndback.jpg
 
 ---
