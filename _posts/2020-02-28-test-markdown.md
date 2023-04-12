@@ -6,9 +6,11 @@ thumbnail-img: /docs2/assets/dee.png
 share-img: /docs2/assets/old.jpg
 comments: true
 ---
-### If you're suffering from sciatica, our in-house rehabilitation program can help you recover and get back to your normal activities. Here are some reasons why you should choose us:
+### If you're suffering from sciatica, our in-house rehabilitation program can help you recover and get back to your normal activities. 
 
-#### 1) Personalized Treatment:
+### Here are some reasons why you should choose us!
+
+#### 1) Personalized Treatment
 Our program is tailored to your specific needs, with a personalized treatment plan that focuses on your individual goals and concerns.
 
 #### 2) Multidisciplinary & Experienced Professionals
