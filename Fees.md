@@ -1,9 +1,12 @@
 # Service Fees
 
 
-| Number | Next number | Previous number |
+| Therapy Type | Duration (Mins) | Cost |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Evalution Session | 30 | Free |
+| Physical Therapy | 60 | $85 |
+| Massage Therapy | 45 | $90 |
+| Functional Taping | 15 | $25 |
+| Acupuncture | 60 | $125 |
+| Counselling | 60 | $130 |
+| Nutritionist Sessions | 60 | $100 |
