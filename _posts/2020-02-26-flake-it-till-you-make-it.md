@@ -6,28 +6,9 @@ thumbnail-img: /docs2/assets/treat.png
 share-img: /docs2/assets/background.jpg
 
 ---
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+One of our main treatment approach is analyzing your functional everyday movement such as sit-to-stands to ensure you are utilizing the correct form. This lifestyle modification not only ensures that the sciatica pain improves, but it also ensures long term pain reduction.
 
-**Here is some bold text**
+## Sit-To-Stand Video Analysis 
 
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
 
