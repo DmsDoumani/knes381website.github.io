@@ -37,3 +37,12 @@ Virtual nutritionist sessions offer personalized nutrition guidance and support 
 These sessions can help reduce inflammation, support healing, and improve quality of life for sciatica patients.
 
 
+# Service Fees
+
+
+| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
