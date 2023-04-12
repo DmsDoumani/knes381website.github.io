@@ -22,3 +22,6 @@ Our rehabilitation program takes a holistic approach, addressing not just the ph
 #### 4) Convenient Location: 
 Our rehabilitation facility is conveniently located, at your own house, making it easy for you to attend sessions and receive the care you need.
 
+
+
+## By choosing our in-house rehabilitation program, you can expect personalized and effective treatment from experienced professionals who will help you on your journey to recovery.
