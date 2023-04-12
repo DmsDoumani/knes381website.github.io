@@ -18,13 +18,13 @@ The benefits of manual and massage therapy for sciatica patients include pain re
 
 ## -Functional Taping-
 
-jj
+Functional Taping is a technique that uses specialized tape to support and stabilize muscles and joints in sciatica patients. The benefits of Functional Taping include reducing inflammation, helping improve range of motion, and reducing the risk of further injury.
 
 ## -Medical Acupuncture- 
 
-mm
+Medical acupuncture involves the insertion of thin needles into specific points on the body to alleviate pain and promote healing in sciatica patients. It stimulates the release of natural pain-relieving chemicals in the body and can help relax tense muscles, reducing pain and improving function
 
-## -Medical Acupuncture- 
+## -Virtual Counselling- 
 
 
-
+## -Virtual Nutritionist Sessions- 
